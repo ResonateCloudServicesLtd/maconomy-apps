@@ -1,2 +1,2 @@
 # maconomy-apps
-tbc
+(all work under resonate-quotebeast)
